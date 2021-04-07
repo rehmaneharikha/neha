@@ -7,7 +7,11 @@
 ####### header 7
 
 *italic*
+
 **bold**
+
 ***italic and bold***
+
 * work
+
 [google](www.youtube.com)
