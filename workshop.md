@@ -27,3 +27,16 @@
       3. welcome
        4. bye
 
+no | name
+-- | ----------
+1  | rehma
+2  | neharikha
+3  | hari
+
+```java
+class Simple{  
+    public static void main(String args[]){  
+     System.out.println("Hello Java");  
+    }  
+}
+```
